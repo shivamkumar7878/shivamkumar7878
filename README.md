@@ -37,7 +37,7 @@ Here are some of the projects I've worked on:
 <p align="left">
 <a href="https://linkedin.com/in/shivam-kumar-72898a1ab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivam-kumar-72898a1ab" height="30" width="40" /></a>
 <a href="https://instagram.com/i_am_shivam14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_am_shivam14" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/codewithshivam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codewithshivam" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCLbrulNHd4g_C29CKhxnrlw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codewithshivam" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shivam_7878" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shivam_7878" height="30" width="40" /></a>
 </p>
 
